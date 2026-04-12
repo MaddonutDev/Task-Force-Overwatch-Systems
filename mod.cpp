@@ -1,0 +1,13 @@
+name			= "Task Force Overwatch Systems";
+author			= "Maddonut";
+logo			= "Data\TFO_Logo.paa";
+//logoOver		= "Data\TFO_Logo.paa";
+tooltip			= "Task Force Overwatch Systems";
+tooltipOwned	= "Created by Maddonut";
+picture			= "Data\TFO_Logo.paa";
+//actionName		= "GitHub";
+//action			= "https://github.com/my-mod-page";
+overview		= "Customizations for Task Force Overwatch";
+hideName		= 0;
+hidePicture		= 0;
+logoSmall		= "Data\TFO_Logo.paa";
