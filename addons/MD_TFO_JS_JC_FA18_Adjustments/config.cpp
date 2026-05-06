@@ -20,6 +20,10 @@ class CfgVehicles
 	class Plane_Base_F;
     class JS_JC_FA18E: Plane_Base_F
     {
+		class itc_air 
+		{
+			tgp_overlay = "";
+		};
 		class pilotCamera
 		{
 			class OpticsIn

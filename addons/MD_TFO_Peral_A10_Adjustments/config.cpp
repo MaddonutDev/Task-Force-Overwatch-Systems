@@ -16,11 +16,16 @@ class CfgPatches
 	};
 };
 class Components;
+class ITC_Air_Config_Peral_A10C;
 class CfgVehicles
 {
 	class Plane_CAS_01_base_F;
     class Peral_A10C: Plane_CAS_01_base_F
     {
+		class itc_air : ITC_Air_Config_Peral_A10C
+		{
+			tgp_overlay = "";
+		};
 		class pilotCamera
 		{
 			class OpticsIn
